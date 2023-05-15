@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193015189180",
+    "project_id": "uas-epotek",
+    "storage_bucket": "uas-epotek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193015189180:android:1e7038f30ff42a148f8ab9",
+        "android_client_info": {
+          "package_name": "com.example.uas_epotek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193015189180-pqu1fv2f8jpl06ne1dtkd98s46l1iq1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiwG1Ggy3-mptqzW5scWjgI3vmyy1F8Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193015189180-pqu1fv2f8jpl06ne1dtkd98s46l1iq1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
